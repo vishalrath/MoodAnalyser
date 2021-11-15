@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\bin\Debug\net5.0\MoodAnalyserSetField.exe
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\bin\Debug\net5.0\MoodAnalyserSetField.deps.json
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\bin\Debug\net5.0\MoodAnalyserSetField.runtimeconfig.json
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\bin\Debug\net5.0\MoodAnalyserSetField.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\bin\Debug\net5.0\MoodAnalyserSetField.dll
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\bin\Debug\net5.0\ref\MoodAnalyserSetField.dll
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\bin\Debug\net5.0\MoodAnalyserSetField.pdb
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.dll
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\ref\MoodAnalyserSetField.dll
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.pdb
+C:\Users\Vishal\source\repos\MoodAnalyserSetField\MoodAnalyserSetField\obj\Debug\net5.0\MoodAnalyserSetField.genruntimeconfig.cache
