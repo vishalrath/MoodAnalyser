@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\bin\Debug\net5.0\MoodAnalyserUc2.exe
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\bin\Debug\net5.0\MoodAnalyserUc2.deps.json
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\bin\Debug\net5.0\MoodAnalyserUc2.runtimeconfig.json
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\bin\Debug\net5.0\MoodAnalyserUc2.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\bin\Debug\net5.0\MoodAnalyserUc2.dll
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\bin\Debug\net5.0\ref\MoodAnalyserUc2.dll
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\bin\Debug\net5.0\MoodAnalyserUc2.pdb
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.dll
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\ref\MoodAnalyserUc2.dll
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.pdb
+C:\Users\Vishal\source\repos\MoodAnalyserUc2\MoodAnalyserUc2\obj\Debug\net5.0\MoodAnalyserUc2.genruntimeconfig.cache
