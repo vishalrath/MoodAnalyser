@@ -1,0 +1,6 @@
+C:\Users\Vishal\source\repos\MoodAnalyserUc4\MSTestProject\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Vishal\source\repos\MoodAnalyserUc4\MSTestProject\obj\Debug\net5.0\MSTestProject.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\MoodAnalyserUc4\MSTestProject\obj\Debug\net5.0\MSTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\MoodAnalyserUc4\MSTestProject\obj\Debug\net5.0\MSTestProject.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\MoodAnalyserUc4\MSTestProject\obj\Debug\net5.0\MSTestProject.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\MoodAnalyserUc4\MSTestProject\obj\Debug\net5.0\MSTestProject.csproj.CoreCompileInputs.cache
