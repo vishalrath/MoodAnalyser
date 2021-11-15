@@ -13,9 +13,7 @@ namespace MoodAnalyserSetField
         /// Reflection UC5 using parameter constructor
         /// Creates the mood analyser parameter object.
         /// </summary>
-        /// <param name="className">Name of the class.</param>
-        /// <param name="constructor">The constructor.</param>
-        /// <param name="message">The message.</param>
+       
 
         public object CreateMoodAnalyserParameterObject(string className, string constructor, string message)
         {
@@ -55,10 +53,7 @@ namespace MoodAnalyserSetField
         /// Invokes the analyser method.
         /// UC6
         /// </summary>
-        /// <param name="message">The message.</param>
-        /// <param name="methodName">Name of the method.</param>
-        /// <returns></returns>
-        /// <exception cref="MoodAnalyzarProblem.CustomException">method not found</exception>
+       
         public string InvokeAnalyserMethod(string message, string methodName)
         {
             try
@@ -76,14 +71,7 @@ namespace MoodAnalyserSetField
             }
         }
 
-        /// <summary>
-        /// Sets the field.
-        /// UC7
-        /// </summary>
-        /// <param name="msg">The MSG.</param>
-        /// <param name="fieldName">Name of the field.</param>
-        /// <returns></returns>
-        /// <exception cref="MoodAnalyzarProblem.CustomException">
+       
         /// message should not be null
         /// or
         /// fieldNmae should not be null
